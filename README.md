@@ -3,7 +3,7 @@ A reproducible code sample.
 After starting the app, it will crash  after the animation plays a few times.
 
 # Doctor summary 
-[✓] Flutter (Channel stable, 3.22.3, on macOS 14.2.1 23C71 darwin-arm64, locale zh-Hans-CN)
+[✓] Flutter (Channel stable, 3.22.3, on macOS 14.2.1 23C71 darwin-arm64)
 
 [✓] Android toolchain - develop for Android devices (Android SDK version 34.0.0)
 
